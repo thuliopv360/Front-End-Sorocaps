@@ -33,3 +33,5 @@ Tela de Cadastro de Pedido de Venda
 - Quantidade
 
 Status ( EM PROCESSO, APROVADO ), pedido entra como EM PROCESSO e depois adicionar um botão na tela para que seja realizada a aprovação do pedido
+
+<a href="https://trello.com/b/EN1zj7ce/front-end"> Trello </a>
